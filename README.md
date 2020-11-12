@@ -57,6 +57,7 @@ to run, use following from within the build folder:
 
 once `./environment` is launched pcd data is read from files at `/sensors/data/pcd/data_1/` and  point cloud is processed and rendered . Detected objects are enclosed in bounding boxes , as shown below.
 
+![obstacledetectionfps](https://user-images.githubusercontent.com/56697957/99007914-745aa200-2545-11eb-958d-0f57a40d3ae9.gif)
 
 
 #### Resources
