@@ -41,6 +41,7 @@ The configuration I used
 clone this repository, enter the cloned directory/folder and build:
 
 ```
+cd SFND_Lidar_Obstacle_Detection
 mkdir build && cd build
 cmake ..
 make
