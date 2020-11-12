@@ -4,7 +4,7 @@ Project for Udacity's Sensor Fusion Engineer Nanodegree Program
 
 **Project Goals**
 
-* Implement Obstacle detection on PCD from a lidar sensor
+* Implement Obstacle detection pipeline on PCD from a lidar sensor
 * use [pcl-library](http://pointclouds.org/) for general data handling and initial testing
 * implement following steps:
   * PCD filtering, for reducing computational cost, without loss of detail
