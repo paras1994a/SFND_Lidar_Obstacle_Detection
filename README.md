@@ -56,9 +56,18 @@ to run, use following from within the build folder:
 
 ### Lidar-Obstacle-Detection
 
-once `./environment` is launched pcd data is read from files at `/sensors/data/pcd/data_1/` and  point cloud is processed and rendered . Detected objects are enclosed in bounding boxes , as shown below.
+once `./environment` is launched pcd data is read from files at `/sensors/data/pcd/data_1/` and  point cloud is processed. Input Lidar Stream And Object Detections are rendered in viewers as shown below:
 
-![obstacledetectionfps](https://user-images.githubusercontent.com/56697957/99007914-745aa200-2545-11eb-958d-0f57a40d3ae9.gif)
+Input Lidar Stream
+
+![input cloud](https://user-images.githubusercontent.com/56697957/99141689-2382a080-264e-11eb-8e21-bcf471af9568.gif)
+
+
+Bounding Box Object Detections
+
+![object detections](https://user-images.githubusercontent.com/56697957/99141697-31d0bc80-264e-11eb-906a-4e9a854147e1.gif)
+
+
 
 
 #### Resources
