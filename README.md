@@ -9,7 +9,7 @@ Project for Udacity's Sensor Fusion Engineer Nanodegree Program
 * implement following steps:
   * PCD filtering, for reducing computational cost, without loss of detail
   * Segment the filtered cloud into two parts, road plane and obstacles, using RANSAC based 3D-plane extraction
-  * Cluster the obstacle cloud, using K-D Tree for 3D space.
+  * Cluster the obstacle cloud, using K-D Tree for 3D space and Eucledian clustering
   * Find bounding boxes for the clusters
 
 
